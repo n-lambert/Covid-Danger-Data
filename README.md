@@ -2,7 +2,7 @@
 
 
 ![screenshot of Covid Danger Data](./assets/images/Screenshot.png)
-Find the deployed project [here](https://clydebaron2000.github.io/Covid-Danger-Data/).
+Find the deployed project [here](https://n-lambert.github.io/Hazard-Map/).
 
 
 Table of Contents:
@@ -42,7 +42,7 @@ As a family with members at risk for Covid-19, we want to know which areas in th
 
 ## Usage ##
 
-The source files for this quiz can be accessed through cloning the GitHub repo. The link above will take you to the deployed project. All APIs used can be accessed by developers applying for free API keys. The Google maps API is only free up to a certain amount of usage, based on a credit they apply monthly to accounts.
+The source files for this quiz can be accessed through cloning the GitHub repo. The link above will take you to the deployed project. All APIs used can be accessed by developers applying for free API keys through Google Cloud. The Google maps API is only free up to a certain amount of usage, based on a credit they apply monthly to accounts.
 
 ## Resources
 ### Resources from [CalFire](https://www.readyforwildfire.org/):
