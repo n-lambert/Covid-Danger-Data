@@ -1,4 +1,4 @@
-# Covid Danger Data
+# Covid Hazards Map
 
 
 ![screenshot of Covid Danger Data](./assets/images/Screenshot.png)
